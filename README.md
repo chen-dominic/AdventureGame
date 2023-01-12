@@ -1,4 +1,4 @@
-# AdventureGame
+# AdventureGame (RPG)
 (WIP) This is my first proper game I've created and it uses only the classes in the Java System Library.
 
 (No title yet) is an adventure game where you can choose classes and explore the map to defeat monsters and gain experience. Once the game is finished,
