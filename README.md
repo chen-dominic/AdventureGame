@@ -7,8 +7,9 @@ there will be more features and entities in the game (monsters, breaking tiles),
 As of right now, the game only allows player to attack monsters and interact with one NPC.
 
 CONTROLS:
-WASD, movement keys
-SPACE, to select (in title screen)
-F, to interact (NPCs, Water Pool Healing)
-K, to attack
-ESC, to pause
+WASD, movement keys |
+SPACE, to select (in title screen) |
+F, to interact (NPCs, Water Pool Healing) |
+K, to attack |
+C, to see character stats |
+ESC, to pause |
